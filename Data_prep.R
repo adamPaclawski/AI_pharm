@@ -1,6 +1,6 @@
 ##Please set your working directory before run the code
 getwd()
-setwd("/home/adam/PulpitPraca/AI in Pharm/")
+setwd("...")
 
 ##Let's read data from CSV file and assign it to variable
 raw_data<-read.csv("BBB_raw_data.csv")
