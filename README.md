@@ -1,3 +1,5 @@
+Materials prepared for students attending course “Artificial Intelligence in Pharmaceutical Sciences”  
+
 # AI_pharm
 AI in Pharmaceutical Sciences
 
